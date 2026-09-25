@@ -23,7 +23,7 @@ function applyTheme(themeKey) {
 }
 
 function App() {
-  const [themeKey, setThemeKey] = useState("clientA");
+  const [themeKey, setThemeKey] = useState("themeA");
   const [query, setQuery] = useState("");
   const debouncedQuery = useDebounce(query, 300);
 
