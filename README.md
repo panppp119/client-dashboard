@@ -4,7 +4,7 @@ Dashboard ที่จำลองระบบเปลี่ยน theme ตา
 ของแพลตฟอร์ม B2B SaaS — สร้างเพื่อฝึกและโชว์แนวคิด config-driven UI
 
 ## Live Demo
-[ใส่ลิงก์หลัง deploy]
+[https://client-dashboard-pan-ppp.vercel.app/](https://client-dashboard-pan-ppp.vercel.app/)
 
 ## Highlights
 - Config-driven theming ผ่าน CSS variables — สลับ client ได้ทันทีโดยไม่ต้อง deploy ใหม่
