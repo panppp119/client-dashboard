@@ -1,0 +1,5 @@
+{
+  "themeA": { "primary": "#00d1b2", "bg": "#1a1a2e", "text": "#ffffff", "name": "Theme A" },
+  "themeB": { "primary": "#ff6b6b", "bg": "#f5f5f5", "text": "#111111", "name": "Theme B" },
+  "themeC": { "primary": "#7c3aed", "bg": "#0f0f1a", "text": "#eeeeee", "name": "Theme C" }
+}
